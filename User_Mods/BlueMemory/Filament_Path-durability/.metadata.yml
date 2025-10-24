@@ -1,0 +1,13 @@
+---
+title: Filament_Path_Pregate_Switch-durability mod
+description: Implement a wear-resistant 3x10mm dowel pin to enhance the overall lifespan
+mod_version: 1
+discord_username: BlueMemory
+cad:
+- Filament_Path-durability.f3d
+images:
+- Images/demo.gif
+stl:
+- Filament_Path-durability.stl
+printer_compatibility:
+- V3
